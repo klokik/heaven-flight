@@ -1,0 +1,3 @@
+#define CONSOLE_INTERFACE USART3
+#define I2Cx I2C2
+#define ROTOR_COUNT 4
